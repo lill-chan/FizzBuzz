@@ -8,10 +8,7 @@ public class Multiples {
             if (divisibleBy3 && divisibleBy5) {
                 multipleOf3or5++;
                 i++;
-            } else if (divisibleBy3) {
-                multipleOf3or5++;
-                i++;
-            } else if (divisibleBy5) {
+            } else if (divisibleBy3 || divisibleBy5) {
                 multipleOf3or5++;
                 i++;
             } else {
