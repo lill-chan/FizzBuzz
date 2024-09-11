@@ -318,7 +318,7 @@ but your local copy doesn't know about the change yet.
 
 - [ ] In IntelliJ, you can either click the `Git` menu and choose `Pull...`,
 or you can run `git pull` from the Terminal tab. Once you have done the pull, you should see the commit show up in
-your local repository.
+your local repository. [test]
 
 Let's move on to a couple more small programming challenges for you to try out, which are similar to Fizz Buzz.
 
